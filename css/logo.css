@@ -1,0 +1,9 @@
+﻿.logo {
+    display: inline-block; /* Ensures the logo is displayed in a line with other navigation items */
+    height: 40px; /* Adjust the height as needed */
+    padding: 10px; /* Add padding around the logo for spacing */
+}
+
+    .logo img {
+        max-height: 100%; /* Ensure the logo fits within the specified height */
+    }
